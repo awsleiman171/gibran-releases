@@ -46,5 +46,7 @@ check for updates.
 
 ## Installation & updates
 
-Download the DMG, drag **Gibran** to Applications, and launch it. The app is
-signed and notarized by Apple, and updates itself automatically via Sparkle.
+Click Download, open the file, and drag **Gibran** into your **Applications**
+folder — that's it. The app is verified by Apple, so it opens without any
+warnings, and it keeps itself up to date: when a new version comes out,
+Gibran offers it to you automatically.
