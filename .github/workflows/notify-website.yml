@@ -1,0 +1,26 @@
+# Pings the NAS webhook (via Cloudflare Tunnel) to rebuild www.awsleiman.com
+# whenever the app's website page changes. release.sh touches .website/app.md
+# on every release, so releases update the site automatically.
+#
+# Actions secrets:
+#   WEBSITE_WEBHOOK_URL    https://hooks.awsleiman.com/rebuild
+#   WEBSITE_WEBHOOK_TOKEN  same value as WEBHOOK_TOKEN on the NAS
+name: Notify website
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.website/**']
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger website rebuild
+        run: |
+          curl -fsS -X POST "$WEBSITE_WEBHOOK_URL" \
+            -H "x-webhook-token: $WEBSITE_WEBHOOK_TOKEN"
+        env:
+          WEBSITE_WEBHOOK_URL: ${{ secrets.WEBSITE_WEBHOOK_URL }}
+          WEBSITE_WEBHOOK_TOKEN: ${{ secrets.WEBSITE_WEBHOOK_TOKEN }}
