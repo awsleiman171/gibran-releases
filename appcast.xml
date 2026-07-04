@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Gibran</title>
+    <language>en</language>
+    <item>
+      <title>Version 0.2.0</title>
+      <pubDate>Sat, 04 Jul 2026 13:41:12 +0000</pubDate>
+      <sparkle:version>0.2.0</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[First public release: system-wide inline ghost-text suggestions powered by a local model. Everything runs on your Mac.]]></description>
+      <enclosure url="https://github.com/awsleiman171/gibran-releases/releases/download/v0.2.0/Gibran-0.2.0.dmg"
+                 sparkle:edSignature="qPDDBead8jh4RU3GSzc3Qjf03akopGv1gx1IwrhAEB+J+0qRV3DwQAnx6lo+Z49kb3m1d4+kAfrKOdMzRPUFBQ=="
+                 length="12783820"
+                 type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
