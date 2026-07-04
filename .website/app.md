@@ -16,6 +16,8 @@ your caret: press **Tab** to accept them word by word, **Ctrl+Option+Return**
 to take the whole thing, or **Escape** to dismiss. Everything runs on your
 Mac; nothing you type ever leaves it.
 
+![Ghost text continuing a sentence at the caret, with Tab to accept](/apps/gibran/ghost-text.png)
+
 ## Features
 
 - **Works everywhere** — Notes, Mail, Safari, TextEdit, Xcode, web apps: if it
