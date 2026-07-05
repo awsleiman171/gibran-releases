@@ -4,51 +4,15 @@
     <title>Gibran</title>
     <language>en</language>
     <item>
-      <title>Version 0.3.1</title>
-      <pubDate>Sun, 05 Jul 2026 09:23:48 +0000</pubDate>
-      <sparkle:version>0.3.1</sparkle:version>
-      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <title>Version 0.0.1-beta</title>
+      <pubDate>Sun, 05 Jul 2026 11:36:05 +0000</pubDate>
+      <sparkle:version>0.0.1-beta</sparkle:version>
+      <sparkle:shortVersionString>0.0.1-beta</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Housekeeping release exercising the automated pipeline.]]></description>
-      <enclosure url="https://github.com/awsleiman171/gibran-releases/releases/download/v0.3.1/Gibran-0.3.1.dmg"
-                 sparkle:edSignature="VnOZ5RE+RbgO615jKCHLw3ARn6+ms1N0yuXHuo6eQlLUQHje03+23PIIkuQ3yHfBeaiEMovNSV0a4CY/5QwFBA=="
-                 length="12804035"
-                 type="application/octet-stream"/>
-    </item>
-    <item>
-      <title>Version 0.3.0</title>
-      <pubDate>Sun, 05 Jul 2026 08:44:25 +0000</pubDate>
-      <sparkle:version>0.3.0</sparkle:version>
-      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Faster suggestions: fixed delays cut and stale generations restarted early — ghosts now appear in roughly a third of the time. Gibran now holds back suggestions the model itself is unsure about instead of showing weak ones. Suggestions always continue your own message — no more ghost replies when your draft contains a question. Mid-word suggestions complete the word and continue the phrase, and a typed-through ghost grows back into a full suggestion. Ignoring a ghost no longer silences similar suggestions for a day.]]></description>
-      <enclosure url="https://github.com/awsleiman171/gibran-releases/releases/download/v0.3.0/Gibran-0.3.0.dmg"
-                 sparkle:edSignature="E6uVDdfSMZoNR5CpRTvdmOq/pxDZUtwhoni/rbjYfQwV7JO3XURJ6Rz7cPoBw1X/t7I2fPz0ohbemPB5zwtvDA=="
-                 length="12803526"
-                 type="application/octet-stream"/>
-    </item>
-    <item>
-      <title>Version 0.2.1</title>
-      <pubDate>Sat, 04 Jul 2026 13:42:52 +0000</pubDate>
-      <sparkle:version>0.2.1</sparkle:version>
-      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[Auto-update support: Gibran now keeps itself up to date via Check for Updates in the menu bar.]]></description>
-      <enclosure url="https://github.com/awsleiman171/gibran-releases/releases/download/v0.2.1/Gibran-0.2.1.dmg"
-                 sparkle:edSignature="0u08q+tpBbjcANI0h9zY7oaPaK9OhfHJ56u7yj9v/dE2tdCWQyFVb2nrxOzr5QXtTw2lafu3tS36dJDJfeJcAw=="
-                 length="12783390"
-                 type="application/octet-stream"/>
-    </item>
-    <item>
-      <title>Version 0.2.0</title>
-      <pubDate>Sat, 04 Jul 2026 13:41:12 +0000</pubDate>
-      <sparkle:version>0.2.0</sparkle:version>
-      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[First public release: system-wide inline ghost-text suggestions powered by a local model. Everything runs on your Mac.]]></description>
-      <enclosure url="https://github.com/awsleiman171/gibran-releases/releases/download/v0.2.0/Gibran-0.2.0.dmg"
-                 sparkle:edSignature="qPDDBead8jh4RU3GSzc3Qjf03akopGv1gx1IwrhAEB+J+0qRV3DwQAnx6lo+Z49kb3m1d4+kAfrKOdMzRPUFBQ=="
-                 length="12783820"
+      <description><![CDATA[First public beta.]]></description>
+      <enclosure url="https://github.com/awsleiman171/gibran-releases/releases/download/v0.0.1-beta/Gibran-0.0.1-beta.dmg"
+                 sparkle:edSignature="ff7UiqL8E9YXUj8tCWrQVKiZBh/WnH+/NI7oBgjJFncQdTswv6hLXzIQVA+I7KXraHTmFKwpKNjdD/lBYhPaCg=="
+                 length="12803428"
                  type="application/octet-stream"/>
     </item>
   </channel>
