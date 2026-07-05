@@ -3,8 +3,8 @@ slug: gibran
 name: Gibran
 tagline: Inline typing suggestions anywhere on your Mac, powered by a local AI.
 icon: icon.png
-download: https://github.com/awsleiman171/gibran-releases/releases/download/v0.2.1/Gibran-0.2.1.dmg
-version: 0.2.1
+download: https://github.com/awsleiman171/gibran-releases/releases/download/v0.3.0/Gibran-0.3.0.dmg
+version: 0.3.0
 platforms: [macOS 14+]
 repo: https://github.com/awsleiman171/gibran-releases
 order: 1
