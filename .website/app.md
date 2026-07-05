@@ -6,7 +6,7 @@ icon: icon.png
 download: https://github.com/awsleiman171/gibran-releases/releases/download/v0.0.1-beta/Gibran-0.0.1-beta.dmg
 version: 0.0.1-beta
 platforms: [macOS 14+]
-repo: https://github.com/awsleiman171/gibran-releases
+repo: https://github.com/awsleiman-lab/gibran
 order: 1
 ---
 
@@ -15,6 +15,7 @@ you type — in any app. Suggestions appear as subtle gray ghost text right at
 your caret: press **Tab** to accept them word by word, **Ctrl+Option+Return**
 to take the whole thing, or **Escape** to dismiss. Everything runs on your
 Mac; nothing you type ever leaves it.
+Gibran is **open source** (AGPL-3.0) — read every line before you trust it.
 
 ![Ghost text continuing a sentence at the caret, with Tab to accept](/apps/gibran/ghost-text.png)
 
