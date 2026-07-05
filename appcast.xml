@@ -4,6 +4,18 @@
     <title>Gibran</title>
     <language>en</language>
     <item>
+      <title>Version 0.3.1</title>
+      <pubDate>Sun, 05 Jul 2026 09:23:48 +0000</pubDate>
+      <sparkle:version>0.3.1</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Housekeeping release exercising the automated pipeline.]]></description>
+      <enclosure url="https://github.com/awsleiman171/gibran-releases/releases/download/v0.3.1/Gibran-0.3.1.dmg"
+                 sparkle:edSignature="VnOZ5RE+RbgO615jKCHLw3ARn6+ms1N0yuXHuo6eQlLUQHje03+23PIIkuQ3yHfBeaiEMovNSV0a4CY/5QwFBA=="
+                 length="12804035"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.3.0</title>
       <pubDate>Sun, 05 Jul 2026 08:44:25 +0000</pubDate>
       <sparkle:version>0.3.0</sparkle:version>
