@@ -4,6 +4,18 @@
     <title>Gibran</title>
     <language>en</language>
     <item>
+      <title>Version 0.0.3-beta</title>
+      <pubDate>Thu, 16 Jul 2026 22:30:24 +0000</pubDate>
+      <sparkle:version>0.0.3-beta</sparkle:version>
+      <sparkle:shortVersionString>0.0.3-beta</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Improves long-running responsiveness by bounding llama-server prompt-cache memory, releases managed model resources when switching to a custom endpoint, and removes the global Tab monitor while Gibran is paused.]]></description>
+      <enclosure url="https://github.com/awsleiman171/gibran-releases/releases/download/v0.0.3-beta/Gibran-0.0.3-beta.dmg"
+                 sparkle:edSignature="6Uh/i3NLK+z3N1iQaf2X3AK9/LLxgdU8iyKvI0F8IpKqyYL89SSjaAfZxNKuugyc/xyG99lLIr/Qqd91hOTbAg=="
+                 length="12820650"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.0.2-beta</title>
       <pubDate>Mon, 06 Jul 2026 18:11:31 +0000</pubDate>
       <sparkle:version>0.0.2-beta</sparkle:version>
