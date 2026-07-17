@@ -4,6 +4,18 @@
     <title>Gibran</title>
     <language>en</language>
     <item>
+      <title>Version 0.0.5-beta</title>
+      <pubDate>Fri, 17 Jul 2026 22:50:03 +0000</pubDate>
+      <sparkle:version>0.0.5-beta</sparkle:version>
+      <sparkle:shortVersionString>0.0.5-beta</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[New Gibran app and menu-bar identity. Native and browser versions of the same service now share one app profile, with improved per-app style learning and privacy controls. Ghost suggestions stay inside and follow the active window more reliably, calibration recovers and reports its status more clearly, and window context is safer, more relevant, and less repetitive.]]></description>
+      <enclosure url="https://github.com/awsleiman171/gibran-releases/releases/download/v0.0.5-beta/Gibran-0.0.5-beta.dmg"
+                 sparkle:edSignature="jHnRMl2aafiFi9C9G+iJfy/cKPmIwd7X4tErDPC21NCwwM7D+L9ijNUjy7XgUjoAALcp+9Q8gbrnzF156Y6vCg=="
+                 length="14485629"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.0.4-beta</title>
       <pubDate>Fri, 17 Jul 2026 08:19:44 +0000</pubDate>
       <sparkle:version>0.0.4-beta</sparkle:version>

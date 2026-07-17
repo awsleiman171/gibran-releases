@@ -4,8 +4,8 @@ name: Gibran
 tagline: Inline typing suggestions anywhere on your Mac, powered by a local AI.
 icon: icon.png
 license: AGPL-3.0
-download: https://github.com/awsleiman171/gibran-releases/releases/download/v0.0.4-beta/Gibran-0.0.4-beta.dmg
-version: 0.0.4-beta
+download: https://github.com/awsleiman171/gibran-releases/releases/download/v0.0.5-beta/Gibran-0.0.5-beta.dmg
+version: 0.0.5-beta
 platforms: [macOS 14+]
 repo: https://github.com/awsleiman-lab/gibran
 order: 1
