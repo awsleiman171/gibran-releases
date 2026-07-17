@@ -4,6 +4,18 @@
     <title>Gibran</title>
     <language>en</language>
     <item>
+      <title>Version 0.0.4-beta</title>
+      <pubDate>Fri, 17 Jul 2026 08:19:44 +0000</pubDate>
+      <sparkle:version>0.0.4-beta</sparkle:version>
+      <sparkle:shortVersionString>0.0.4-beta</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Improves reliability and privacy across Chromium and multi-window apps: accessibility activation no longer repeats across app switches, password managers, private windows, and credential-shaped text are excluded, screen OCR tracks the focused window and skips unchanged captures, and conversation context walks are time-bounded to keep typing responsive.]]></description>
+      <enclosure url="https://github.com/awsleiman171/gibran-releases/releases/download/v0.0.4-beta/Gibran-0.0.4-beta.dmg"
+                 sparkle:edSignature="Uglv91kblx1k5NP3s/M4CjJFQLrhYXQ7wZGEDDQF+CbrfhMi/lL0SYeTa2cr8P1UZxlxw/aBiJ/obX1NGjeIAg=="
+                 length="12851177"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.0.3-beta</title>
       <pubDate>Thu, 16 Jul 2026 22:30:24 +0000</pubDate>
       <sparkle:version>0.0.3-beta</sparkle:version>
