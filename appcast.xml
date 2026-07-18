@@ -4,6 +4,18 @@
     <title>Gibran</title>
     <language>en</language>
     <item>
+      <title>Version 0.0.9-beta</title>
+      <pubDate>Sat, 18 Jul 2026 10:50:57 +0000</pubDate>
+      <sparkle:version>0.0.9-beta</sparkle:version>
+      <sparkle:shortVersionString>0.0.9-beta</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Prevents template placeholders such as [Your Name] and wrong-speaker answers from appearing in suggestions, with tighter same-author continuation behavior.]]></description>
+      <enclosure url="https://github.com/awsleiman171/gibran-releases/releases/download/v0.0.9-beta/Gibran-0.0.9-beta.dmg"
+                 sparkle:edSignature="QmKY7gNTI5v4Doxz8VzYeUEdVUxp8U6yS++Ac/HXrvw43tClUV8b5ONCOfqUizxD1/fTrc/KKD9hFFM5mjQrDw=="
+                 length="8602729"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.0.8-beta</title>
       <pubDate>Sat, 18 Jul 2026 10:33:16 +0000</pubDate>
       <sparkle:version>0.0.8-beta</sparkle:version>
