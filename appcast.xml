@@ -4,6 +4,18 @@
     <title>Gibran</title>
     <language>en</language>
     <item>
+      <title>Version 0.0.6-beta</title>
+      <pubDate>Sat, 18 Jul 2026 08:20:37 +0000</pubDate>
+      <sparkle:version>0.0.6-beta</sparkle:version>
+      <sparkle:shortVersionString>0.0.6-beta</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Introduces Gibran's new black app icon and a simplified menu-bar mark with a proper I-beam typing cursor.]]></description>
+      <enclosure url="https://github.com/awsleiman171/gibran-releases/releases/download/v0.0.6-beta/Gibran-0.0.6-beta.dmg"
+                 sparkle:edSignature="UgvTHLcoHG29mSDE5zAev7rdxCPQvHix0xZwe5zKbNq6hd5gObsWspyBUUmXMO5PSv4M7ugYGRaxwnNVK+dMBQ=="
+                 length="13949892"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.0.5-beta</title>
       <pubDate>Fri, 17 Jul 2026 22:50:03 +0000</pubDate>
       <sparkle:version>0.0.5-beta</sparkle:version>
