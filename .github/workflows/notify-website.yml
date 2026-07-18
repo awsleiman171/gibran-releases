@@ -7,6 +7,8 @@
 #   WEBSITE_WEBHOOK_TOKEN  same value as WEBHOOK_TOKEN on the NAS
 name: Notify website
 
+permissions: {}
+
 on:
   workflow_dispatch:
   push:
