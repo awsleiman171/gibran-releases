@@ -4,6 +4,18 @@
     <title>Gibran</title>
     <language>en</language>
     <item>
+      <title>Version 0.0.10-beta</title>
+      <pubDate>Sat, 18 Jul 2026 11:13:41 +0000</pubDate>
+      <sparkle:version>0.0.10-beta</sparkle:version>
+      <sparkle:shortVersionString>0.0.10-beta</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Adds a dedicated Context & Privacy onboarding step with an explicit focused-window reading choice, clearer permission explanations, and transparent custom-endpoint disclosure.]]></description>
+      <enclosure url="https://github.com/awsleiman171/gibran-releases/releases/download/v0.0.10-beta/Gibran-0.0.10-beta.dmg"
+                 sparkle:edSignature="1LYMrKIKjPk6rtnhDCyjEnHlNXfkdyNIlpZWbBgsM8/vZvoAjpZmlWt0WjZ7e5izthbQAEkjvG7AlruqVeZ6BA=="
+                 length="8626027"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.0.9-beta</title>
       <pubDate>Sat, 18 Jul 2026 10:50:57 +0000</pubDate>
       <sparkle:version>0.0.9-beta</sparkle:version>
