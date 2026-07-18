@@ -6,7 +6,7 @@ icon: icon-v3.png
 license: AGPL-3.0
 download: https://github.com/awsleiman171/gibran-releases/releases/download/v0.0.6-beta/Gibran-0.0.6-beta.dmg
 version: 0.0.6-beta
-platforms: [macOS 14+]
+platforms: [macOS 14+ · Apple Silicon]
 repo: https://github.com/awsleiman-lab/gibran
 order: 1
 ---
@@ -35,7 +35,7 @@ Gibran is **open source** (AGPL-3.0) — read every line before you trust it.
 
 ## Requirements
 
-- macOS 14 (Sonoma) or later — Apple Silicon and Intel
+- macOS 14 (Sonoma) or later on an Apple Silicon Mac (M1 or newer)
 - Accessibility, Input Monitoring, and Screen Recording permissions
   (Gibran walks you through granting them on first launch)
 
