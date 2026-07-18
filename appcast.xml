@@ -4,6 +4,18 @@
     <title>Gibran</title>
     <language>en</language>
     <item>
+      <title>Version 0.0.8-beta</title>
+      <pubDate>Sat, 18 Jul 2026 10:33:16 +0000</pubDate>
+      <sparkle:version>0.0.8-beta</sparkle:version>
+      <sparkle:shortVersionString>0.0.8-beta</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Fixes rapid Tab acceptance so inline suggestions remain stable between words and prevents literal Tab characters when apps such as WhatsApp report delayed accessibility updates.]]></description>
+      <enclosure url="https://github.com/awsleiman171/gibran-releases/releases/download/v0.0.8-beta/Gibran-0.0.8-beta.dmg"
+                 sparkle:edSignature="u+15Uft6imOxytu8kyixMlbEo6q3ta75WEcZI7tRL/EvM1H7M0GrXQRr8vUCx13I4GT7o7cWQg5iGPt8M+a9BQ=="
+                 length="8603112"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.0.7-beta</title>
       <pubDate>Sat, 18 Jul 2026 09:11:39 +0000</pubDate>
       <sparkle:version>0.0.7-beta</sparkle:version>
