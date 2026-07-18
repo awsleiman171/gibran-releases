@@ -4,6 +4,18 @@
     <title>Gibran</title>
     <language>en</language>
     <item>
+      <title>Version 0.0.7-beta</title>
+      <pubDate>Sat, 18 Jul 2026 09:11:39 +0000</pubDate>
+      <sparkle:version>0.0.7-beta</sparkle:version>
+      <sparkle:shortVersionString>0.0.7-beta</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Self-contained model setup with verified resumable downloads, automatic readiness checks and repair tools, plus a reproducibly bundled local inference runtime.]]></description>
+      <enclosure url="https://github.com/awsleiman171/gibran-releases/releases/download/v0.0.7-beta/Gibran-0.0.7-beta.dmg"
+                 sparkle:edSignature="psdaMvqgV7ytewbOe1PjLPTKjqlvjP4LB8uI9yloOHSodqa85qGTdlBkwXheanP4xKGCsrnUW+8TgUfME9EhBg=="
+                 length="8603102"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.0.6-beta</title>
       <pubDate>Sat, 18 Jul 2026 08:20:37 +0000</pubDate>
       <sparkle:version>0.0.6-beta</sparkle:version>
