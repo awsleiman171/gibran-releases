@@ -4,6 +4,18 @@
     <title>Gibran</title>
     <language>en</language>
     <item>
+      <title>Version 0.0.11-beta</title>
+      <pubDate>Sat, 18 Jul 2026 11:56:03 +0000</pubDate>
+      <sparkle:version>0.0.11-beta</sparkle:version>
+      <sparkle:shortVersionString>0.0.11-beta</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[Gibran now offers three completion-focused local models: Fast Qwen3 4B Base, Recommended Gemma 4 E4B Base, and Best Quality Gemma 4 12B Base. Managed models use a continuation-tuned text-completion prompt to reduce reply-like suggestions. Existing verified models are never deleted silently; Settings lists them under Previous Models and enables removal only after the replacement is ready.]]></description>
+      <enclosure url="https://github.com/awsleiman171/gibran-releases/releases/download/v0.0.11-beta/Gibran-0.0.11-beta.dmg"
+                 sparkle:edSignature="//te+ezBbz9PiEvsGKQ4wd8kuuqDyMggC6vi/JryHOdHiecgHjZLWA7s5xaYKOGLOVnMO+nICTN5L+YdCe+RBQ=="
+                 length="8670457"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 0.0.10-beta</title>
       <pubDate>Sat, 18 Jul 2026 11:13:41 +0000</pubDate>
       <sparkle:version>0.0.10-beta</sparkle:version>

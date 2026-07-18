@@ -4,8 +4,8 @@ name: Gibran
 tagline: Private, on-device writing suggestions wherever you type on your Mac.
 icon: icon-v3.png
 license: AGPL-3.0
-download: https://github.com/awsleiman171/gibran-releases/releases/download/v0.0.10-beta/Gibran-0.0.10-beta.dmg
-version: 0.0.10-beta
+download: https://github.com/awsleiman171/gibran-releases/releases/download/v0.0.11-beta/Gibran-0.0.11-beta.dmg
+version: 0.0.11-beta
 platforms: [macOS 14+ · Apple Silicon]
 repo: https://github.com/awsleiman-lab/gibran
 order: 1
